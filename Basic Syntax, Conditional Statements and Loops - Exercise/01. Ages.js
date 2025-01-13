@@ -21,4 +21,4 @@
         }
         console.log(result);
     }
-ages(-1);
+ages(-1); 
